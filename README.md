@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+- practice github
+- from BU OMDS program
+- simple push pull
